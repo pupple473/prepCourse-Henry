@@ -1,2 +1,1 @@
-# prepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del curso de preparacion de Herny
+Este proyecto es una prueba de como crear un repositorio y clonarlo a mi repositorio local
